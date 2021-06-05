@@ -1,0 +1,66 @@
+form {
+  margin: 0 auto;
+  width: 800px;
+}
+
+form label {
+  font-family: "Averia Serif Libre", cursive;
+  display: inline-block;
+  width: 200px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+form input {
+  margin-top: 6px;
+  margin-bottom: 16px;
+  float: inline-end;
+  width: 400px;
+  height: 25px;
+}
+
+.myInfo {
+  font-size: 20px;
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+  color: black;
+  border: 1px solid gray;
+  background-color: lightgray;
+  opacity: 0.5;
+  width: 620px;
+  padding-left: 20px;
+}
+
+.buttonClear {
+  background-color: rgb(54, 179, 179);
+  color: white;
+  text-align: center;
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid gray;
+}
+.submit {
+  background-color: aqua;
+  color: white;
+  height: 40px;
+}
+#gender {
+  width: 20px;
+}
+.genderAlign {
+  display: flex;
+  padding-left: 12px;
+}
+.buttonRoot {
+  text-align: center;
+}
+.button {
+  width: 20vh;
+  height: 38px;
+  background-color: rgb(233, 85, 183);
+  border: 1px solid gray;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: bold;
+}

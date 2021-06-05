@@ -1,0 +1,14 @@
+* {
+  padding: 10;
+  margin: 10;
+  box-sizing: border-box;
+}
+.cardStyle {
+  padding-top: 30px;
+}
+.box-shadow {
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
+}
+.headerText {
+  padding-top: 10%;
+}
